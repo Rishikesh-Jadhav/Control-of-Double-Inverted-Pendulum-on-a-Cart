@@ -7,7 +7,7 @@ This folder consists of 1 sub folder and 1 file which are:
 
     ENPM-667_Final_Project_Report.pdf: Report of the assignment in pdf format
 
-    ENPM667-Final_Project_Package Folder: Contains all files required for simulation of the 					  		  given tasks in the project.
+    ENPM667-Final_Project_Package Folder: Contains all files required for simulation of the given tasks in the project.
    
 
 Instructions to Run Code and .m file contents :
@@ -16,11 +16,11 @@ Instructions to Run Code and .m file contents :
 
 2. DET_C.m - Used to check controllability 
 
-3. Linear_Leunberger_Observer.m - Observability graphs for Case 1,2 & 3 on pages 14 and 15 of 				  		  the report
+3. Linear_Leunberger_Observer.m - Observability graphs for Case 1,2 & 3 on pages 14 and 15 of the report
 
 4. Response_To_Int_Cond.m - Response to initial condition LQR pages 7,8.
 
-5. LQR_CONTROLLABLE.m - Used for Stability verification(Indirect method) pages 9 and 10 of 					the report.
+5. LQR_CONTROLLABLE.m - Used for Stability verification(Indirect method) pages 9 and 10 of the report.
 
 6. LQR_TEST.m - Simulating the Time Response of Dynamic System to Arbitrary Inputs
 
